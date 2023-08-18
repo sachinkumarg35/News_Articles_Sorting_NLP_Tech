@@ -21,41 +21,41 @@ Download the dataset for this project from this link (https://www.kaggle.com/c/l
     
 ## Screenshots
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S1.png?raw=true)
+![App Screenshot](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Screenshots/S1.png)
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S2.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S3.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S4.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S5.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S6.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S7.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S8.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S9.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S10.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S11.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S12.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S13.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S14.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S15.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S16.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/S17.png?raw=true)
+![App Screenshot]()
 
-![App Screenshot](https://github.com/sachinkumarg35/news_article_sorting_project/blob/main/Screenshots/Capture.jpg?raw=true)
+![App Screenshot]()
 
 
 
