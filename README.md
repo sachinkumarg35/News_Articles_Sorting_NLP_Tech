@@ -65,7 +65,7 @@ Download the dataset for this project from this link (https://www.kaggle.com/c/l
 To deploy this project run
 
 ```bash
-  npm run deploy http://localhost:8000/
+  http://localhost:8000
 ```
 
 
