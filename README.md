@@ -76,16 +76,15 @@ Insert gif or link to demo
 https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Video/2023-08-16%2007-35-48.mp4
 
 ## Documentation
+[Architecture](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/Architecture.pdf)
 
-[Documentation](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/Architecture.pdf)
+[High Level Design](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/High%20Level%20Design.pdf)
 
-[Documentation](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/High%20Level%20Design.pdf)
+[Low Level Design](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/Low%20Level%20Design.pdf)
 
-[Documentation](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/Low%20Level%20Design.pdf)
+[Project Details ppt](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/News%20Article%20Sorting.pptx)
 
-[Documentation](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/News%20Article%20Sorting.pptx)
-
-[Documentation](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/Wireframe%20Document.pdf)
+[Wireframe](https://github.com/sachinkumarg35/News_Articles_Sorting_NLP_Tech/blob/main/Documents/Wireframe%20Document.pdf)
 
 
 
